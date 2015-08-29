@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="unknown">N/A</string>
+    <string name="original_title">Original Name</string>
+    <string name="popularity">Popularity Index</string>
+    <string name="user_rating">User Rating</string>
+    <string name="overview">Overview:</string>
+</resources>
